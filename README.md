@@ -1,1 +1,1 @@
-#This project is going through git and is ny first repo for Holberton School.
+#This project is going through git and is my first repo for Holberton School.
